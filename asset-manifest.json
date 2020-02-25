@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/face-recongnize/static/css/main.741a4dcb.chunk.css",
+    "main.js": "/face-recongnize/static/js/main.09d59674.chunk.js",
+    "main.js.map": "/face-recongnize/static/js/main.09d59674.chunk.js.map",
+    "runtime-main.js": "/face-recongnize/static/js/runtime-main.d13f2422.js",
+    "runtime-main.js.map": "/face-recongnize/static/js/runtime-main.d13f2422.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/face-recongnize/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.bc86d0e9.chunk.js": "/face-recongnize/static/js/2.bc86d0e9.chunk.js",
+    "static/js/2.bc86d0e9.chunk.js.map": "/face-recongnize/static/js/2.bc86d0e9.chunk.js.map",
+    "index.html": "/face-recongnize/index.html",
+    "precache-manifest.79e97963208a39410ccd5e22f7d1aceb.js": "/face-recongnize/precache-manifest.79e97963208a39410ccd5e22f7d1aceb.js",
+    "service-worker.js": "/face-recongnize/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/face-recongnize/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.741a4dcb.chunk.css.map": "/face-recongnize/static/css/main.741a4dcb.chunk.css.map",
+    "static/js/2.bc86d0e9.chunk.js.LICENSE.txt": "/face-recongnize/static/js/2.bc86d0e9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d13f2422.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.bc86d0e9.chunk.js",
+    "static/css/main.741a4dcb.chunk.css",
+    "static/js/main.09d59674.chunk.js"
+  ]
+}
